@@ -3,3 +3,13 @@
 *.iml
 out
 gen
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Generated data and models
+*.csv
+*.pt
